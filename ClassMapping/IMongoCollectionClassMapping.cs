@@ -1,6 +1,6 @@
 using MongoDB.Bson.Serialization;
 
-namespace Plaid.Common.Infrastructure.Mongo.Configurations;
+namespace ClassMapping;
 
 /// <summary>
 /// Интерфейс для маппинга класса

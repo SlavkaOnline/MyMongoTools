@@ -1,8 +1,7 @@
 using System.Reflection;
 using MongoDB.Bson.Serialization;
-using Plaid.Common.Infrastructure.Mongo.Configurations;
 
-namespace Plaid.Common.Tests.Infrastructure.Mongo;
+namespace ClassMapping.Tests;
 
 public class MongoCollectionClassMappingTests : IAsyncLifetime
 {

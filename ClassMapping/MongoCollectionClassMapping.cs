@@ -1,9 +1,7 @@
-using System;
-using System.Linq;
 using System.Reflection;
 using MongoDB.Bson.Serialization;
 
-namespace Plaid.Common.Infrastructure.Mongo.Configurations;
+namespace ClassMapping;
 
 public static class MongoCollectionClassMapping
 {
