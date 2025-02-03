@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMapping", "ClassMapping\ClassMapping.csproj", "{69FB6354-F25B-4308-A3C7-BCC52C91D003}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMapping.Tests", "Tests\ClassMapping.Tests\ClassMapping.Tests.csproj", "{37273485-4B78-4A5B-A02E-B65A5C8924E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69FB6354-F25B-4308-A3C7-BCC52C91D003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69FB6354-F25B-4308-A3C7-BCC52C91D003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69FB6354-F25B-4308-A3C7-BCC52C91D003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69FB6354-F25B-4308-A3C7-BCC52C91D003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37273485-4B78-4A5B-A02E-B65A5C8924E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37273485-4B78-4A5B-A02E-B65A5C8924E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37273485-4B78-4A5B-A02E-B65A5C8924E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37273485-4B78-4A5B-A02E-B65A5C8924E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
